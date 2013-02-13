@@ -8,7 +8,16 @@ PageMunch is a simple API backed by an intelligent web crawler, that lets you ex
 
 ## Installation
  
-TODO.
+You can install the PHP module using Composer, simply add it to your requirements, for example:
+
+    {
+        "require": {
+            "PageMunch/PageMunch": ">=0.1.0"
+        }
+    }
+
+Or clone the repository directly from GitHub and use the class in the vendors directory of your Framework or elsewhere.
+
 
 ## More Details
 

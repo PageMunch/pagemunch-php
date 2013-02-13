@@ -13,6 +13,9 @@
             "role": "Developer"
         }
     ],
+    "autoload": {
+        "psr-0": {"PageMunch": "src/"}
+    }
     "require": {
         "php": ">=5.3.0"
     }
