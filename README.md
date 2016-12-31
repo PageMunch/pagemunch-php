@@ -49,4 +49,4 @@ For more information, libraries and documentation check out the **[PageMunch Doc
 
 ## License
 
-This module is Copyright PageMunch 2013.
+This module is Copyright PageMunch 2017.
