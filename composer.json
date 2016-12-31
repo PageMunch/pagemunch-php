@@ -1,8 +1,8 @@
 {
     "name": "pagemunch/pagemunch",
     "type": "library",
-    "description": "A PHP wrapper for the PageMunch web crawler API",
-    "keywords": ["web", "crawler", "spider", "metadata", "parsing", "link", "url", "microformats", "schema.org", "json"],
+    "description": "A PHP wrapper for the PageMunch link unfurling API",
+    "keywords": ["web", "unfurling", "crawler", "metadata", "parsing", "link", "url", "microformats", "schema.org", "json"],
     "homepage": "http://www.pagemunch.com",
     "license": "MIT",
     "authors": [
