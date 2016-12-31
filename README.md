@@ -1,4 +1,4 @@
-# PageMunch - Web crawler for PHP
+# PageMunch - Link Unfurling
 
 
 ## Introduction
